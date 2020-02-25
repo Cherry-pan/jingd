@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.flex{
+    display: flex;
+}
+.j_content{
+    justify-content: space-between
+}
+.a_items{
+    align-items: center;
+}
+.j_items{
+    justify-items: center;
+}
